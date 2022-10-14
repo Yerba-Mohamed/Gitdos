@@ -1,0 +1,7 @@
+document.write("Como lo llevas?")
+document.write("<br>")
+document.write("El exámen?")
+document.write("<br>")
+document.write("Sí")
+document.write("<br>")
+document.write("De momento bién")
