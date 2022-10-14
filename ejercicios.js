@@ -5,3 +5,6 @@ document.write("<br>")
 document.write("Sí")
 document.write("<br>")
 document.write("De momento bién")
+//-----
+document.write("Y tú?")
+document.write("Yo bién")
