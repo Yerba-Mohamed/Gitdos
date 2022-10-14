@@ -7,4 +7,5 @@ document.write("<br>")
 document.write("De momento bién")
 //-----
 document.write("Y tú?")
+document.write("<br>")
 document.write("Yo bién")
